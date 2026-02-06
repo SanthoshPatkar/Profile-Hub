@@ -11,6 +11,10 @@ A modern iOS application built with SwiftUI that displays a list of users with s
 - Pull to refresh
 - Dark mode support
 
+## ScreenShots
+<img width="280" height="600" alt="simulator_screenshot_8AC5EDD9-E063-47C0-B809-1F17D60D859A" src="https://github.com/user-attachments/assets/ab0a6f6b-1930-49fb-8984-09080b18aba4" />
+<img width="280" height="600" alt="simulator_screenshot_40B36ED8-727C-44DD-8807-ABFD7D377811" src="https://github.com/user-attachments/assets/87179328-160b-4cd0-a7e2-7cf3fa77c539" />
+
 ## Architecture
 
 **MVVM Pattern** (Model-View-ViewModel)
